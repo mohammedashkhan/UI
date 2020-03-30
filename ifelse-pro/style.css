@@ -560,24 +560,24 @@ section.achievements{
     bottom: 39px;
     text-transform: uppercase;
   }
- /* .details .button1{
+ .details .button1{
      text-transform: uppercase;
      padding: 80px;
-  }*/
+  } 
 
   .team .details .button1,.button2{
     background-color: #3d60f4;
     width: 99px;
     color: #fff;
-    /*margin-left: 141px;*/
-    /*margin-bottom: 15px;*/
+    margin-left: 141px;
+    margin-bottom: 15px;
     border-radius: 30px;
     text-transform: uppercase;
     padding: 10px 25px;
     position: relative;
   }
 
-/*
+
   .team .details .button2{
     background-color: #000;
     color: #fff;
@@ -587,7 +587,7 @@ section.achievements{
     border-radius: 30px;
     text-transform: uppercase;
     padding: 13px;
-  }*/
+  } 
 
   .team .details .button1:hover{
      background-color: #000;
