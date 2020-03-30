@@ -564,6 +564,12 @@ section.achievements{
      text-transform: uppercase;
      padding: 80px;
   }*/
+.button{
+  position: relative;
+    left: 137px;
+    bottom: 39px;
+    text-transform: uppercase;
+}
 
   .team .details .button1,.button2{
     background-color: #3d60f4;
