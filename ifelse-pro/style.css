@@ -564,25 +564,6 @@ section.achievements{
      text-transform: uppercase;
      padding: 80px;
   }*/
-.button{
-  position: relative;
-    left: 137px;
-    bottom: 39px;
-    text-transform: uppercase;
-  text-decoration-line: none;
-    text-transform: uppercase;
-    color: white;
-    font-size: 14px;
-    font-family:  'Open Sans', sans-serif;
-    font-weight: 400;
-    margin: 67px;
-    height: 20px;
-    width: 20px;
-    padding: 20px 30px;
-    background-color: #3d60f4;
-    border-radius: 20px; 
-
-}
 
   .team .details .button1,.button2{
     background-color: #3d60f4;
